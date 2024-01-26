@@ -1,0 +1,11 @@
+{
+  "domain": "haconversationpush",
+  "name": "HA Conversation Push",
+  "codeowners": ["@nrablin"],
+  "config_flow": true,
+  "dependencies": ["conversation"],
+  "documentation": "https://github.com/nrablin/HAConversationPush",
+  "integration_type": "service",
+  "iot_class": "local_polling",
+  "version": "0.0.1"
+}
